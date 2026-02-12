@@ -5,6 +5,8 @@ A modern, responsive Tic Tac Toe game built with React and Vite. Features single
 ![React](https://img.shields.io/badge/React-18.2.0-blue)
 ![Vite](https://img.shields.io/badge/Vite-5.0.0-purple)
 
+**[Live Demo](https://tic-tac-toe-hafiz.netlify.app)**
+
 ## Features
 
 - **Single Player Mode** - Play against AI with three difficulty levels:
